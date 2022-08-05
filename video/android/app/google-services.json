@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "660463295259",
+    "project_id": "video-1caff",
+    "storage_bucket": "video-1caff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660463295259:android:8b8eaa3ae0e972dfe2d1be",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660463295259-07uhpbe75dfhfmc5igv8ir0a4qe5hkeu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.application",
+            "certificate_hash": "efee7ef0ad08dd253ef48e0c9ba15b93aae7f2fb"
+          }
+        },
+        {
+          "client_id": "660463295259-fmv4c176ho3e1lbqjgvmf8m2u1amjp73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiYX9NYR8JV9wA-uqBez8_Pa9AltkKzRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660463295259-fmv4c176ho3e1lbqjgvmf8m2u1amjp73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
